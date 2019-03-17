@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#263238</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="mainBackground">#37474F</color>
+    <color name="battery0Level">#455A64</color>
+    <color name="battery1Level">#D50000</color>
+    <color name="battery2Level">#FFA726</color>
+    <color name="battery3Level">#EEFF41</color>
+    <color name="battery4Level">#C6FF00</color>
+    <color name="battery5Level">#B2FF59</color>
+    <color name="battery6Level">#76FF03</color>
+
+</resources>

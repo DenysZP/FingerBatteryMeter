@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Finger Battery Meter</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="start_data_collection">Start collecting data</string>
+    <string name="stop_data_collection">Stop collecting data</string>
+    <string name="data_collection_is_complete">Data collection is complete.</string>
+    <string name="data_pattern">x = %1$.2f\ny = %2$.2f\nz = %3$.2f</string>
+    <string name="battery_side_sign">-</string>
+    <string name="place_for_battery">Place for the battery:</string>
+    <string name="put_battery_here">Put the battery here!</string>
+    <string name="calibration_required">Calibration required!</string>
+</resources>
